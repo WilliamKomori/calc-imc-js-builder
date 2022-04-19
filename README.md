@@ -1,13 +1,15 @@
 # calc-imc-js-builder
 
-Aula 18/04
+### Aula 
 
-Grupo:
+18/04
 
-William Mitsuo Komori
-Augusto Barbosa Andrade
-Daniel ferreira Valle
-Felipe Braz Farias Santos
-Jackson Santos Braga
-Jonatas Andrade Silva
-Nicolas Moraes Bassi
+### Grupo:
+
+# William Mitsuo Komori
+# Augusto Barbosa Andrade
+# Daniel ferreira Valle
+# Felipe Braz Farias Santos
+# Jackson Santos Braga
+# Jonatas Andrade Silva
+# Nicolas Moraes Bassi
